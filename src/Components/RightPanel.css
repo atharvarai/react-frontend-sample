@@ -1,0 +1,7 @@
+.rightPanel {
+    width: 20%;
+    border-left: 1px solid #d9d2d2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
