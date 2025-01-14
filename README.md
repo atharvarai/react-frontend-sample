@@ -1,8 +1,31 @@
-# React + Vite
+# Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React website that includes a collapsible left menu, a main content area, and a right-side panel. It is intended to be used as a template for building websites.
 
-Currently, two official plugins are available:
+## Running the Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the application, follow these steps:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/atharvarai/react-frontend-sample.git
+cd react-frontend-sample
+```
+
+### Install Dependencies
+```bash
+npm install
+```
+
+### Start the Development Server
+```bash
+npm run dev
+```
+
+###vView the Application
+Open your browser and navigate to `http://localhost:5173/react-frontend-sample`.
+
+You can also view the deployed version of the application at `https://atharvarai.github.io/react-frontend-sample/`.
+
+Happy coding!!
